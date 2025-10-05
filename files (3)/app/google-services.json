@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042298831369",
+    "project_id": "studio-5456289666-7a106",
+    "storage_bucket": "studio-5456289666-7a106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042298831369:android:cd3dc670235d928ab16ed8",
+        "android_client_info": {
+          "package_name": "com.mushroomart.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9c_nRpgn-XahDTRtqPCcyGxE0j1qkm3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
